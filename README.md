@@ -29,3 +29,5 @@ Visuals:
 Link to the Dashboard 1: https://public.tableau.com/app/profile/sahil.parmar/viz/EntertainerDataAnalysis/EntertainerDataAnalysisDashboard1
 
 Link to the Dashboard 2: https://public.tableau.com/app/profile/sahil.parmar/viz/EntertainerDataAnalysis/EntertainerDataAnalysisDashboard2
+
+Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detail Projcet Report.

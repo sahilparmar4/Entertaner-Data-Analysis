@@ -31,3 +31,7 @@ Link to the Dashboard 1: https://public.tableau.com/app/profile/sahil.parmar/viz
 Link to the Dashboard 2: https://public.tableau.com/app/profile/sahil.parmar/viz/EntertainerDataAnalysis/EntertainerDataAnalysisDashboard2
 
 Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detail Projcet Report.
+
+YouTube Video: https://youtu.be/9Ohh-bH_1_g
+
+LinkedIn Post: https://www.linkedin.com/posts/sahil-parmar-4099391bb_entertainer-data-analysis-google-drive-activity-6883091878393344000-1WLH
